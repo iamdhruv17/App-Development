@@ -24,8 +24,8 @@ DUMMY DATA
 List<String> todoList = ["Buy Milk", "Study Dart", "Submit Assignment"];
 
 Map<String, dynamic> studentData = {
-  "name": "Aarav",
-  "id": 101,
+  "name": "Aaarav",
+  "id": 1011,
   "course": "B.Tech"
 };
 
